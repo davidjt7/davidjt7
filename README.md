@@ -12,6 +12,6 @@
 <br />
 
 ### I'm David Thomas
-- A Software Engineer working in Experion Technologies. 
+- A Software Engineer working at Experion Technologies. 
 - I build MERN stack web apps professionally.
 - I'm always looking for opportunities to learn and contribute.
