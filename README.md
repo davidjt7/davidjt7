@@ -9,6 +9,7 @@
 <a href="https://www.hackerrank.com/djt_in7">
   <img align="left" alt="David's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<br />
 
 ### I'm David Thomas
 - A Software Engineer in Experion Technologies. 
