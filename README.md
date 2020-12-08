@@ -17,4 +17,4 @@
 - I'm always looking for opportunities to learn and contribute.
 
 ### I also love joking around (who doesn't?)
-<img src="https://user-images.githubusercontent.com/17983341/101498517-3315b080-3992-11eb-805f-715bd7273553.gif" width="80px">
+<img src="https://user-images.githubusercontent.com/17983341/101498517-3315b080-3992-11eb-805f-715bd7273553.gif" width="100px">
