@@ -1,5 +1,4 @@
 ## Hello Multiverse! </h2>
-<img src="https://user-images.githubusercontent.com/17983341/101497722-48d6a600-3991-11eb-96a0-b1f5e502cf8b.jpg" width="200px">
 <a href="https://www.linkedin.com/in/djtin/">
   <img align="left" alt="David's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,5 +14,7 @@
 - I build and deploy MERN stack web apps professionally.
 - I'm always looking for opportunities to learn and contribute.
 
-### I also love joking around (who doesn't?)
-<img src="https://user-images.githubusercontent.com/17983341/101498517-3315b080-3992-11eb-805f-715bd7273553.gif" width="100px">
+### Support my work
+<p>I can devote more time to building innovative software with your help. Donations can be made to the following wallet address -</p>
+- 0x76799BcdC6E95C54656853F92D905dc28ca0a610
+
