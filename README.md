@@ -16,5 +16,5 @@
 
 ### Support my work
 <p>I can devote more time to building innovative software with your help. Donations can be made to the following wallet address -</p>
-- 0x76799BcdC6E95C54656853F92D905dc28ca0a610
+<strong>0x76799BcdC6E95C54656853F92D905dc28ca0a610</strong>
 
