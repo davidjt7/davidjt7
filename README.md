@@ -17,4 +17,4 @@
 ### Support my work
 <p>I can devote more time to building innovative software with your help. Donations can be made to the following wallet address -</p>
 <strong>0x76799BcdC6E95C54656853F92D905dc28ca0a610</strong>
-
+<img align="left" alt="Supported Currencies" width="300px" src="https://user-images.githubusercontent.com/17983341/104717473-5da41780-574f-11eb-9f5b-2f6aad18526b.png" />
