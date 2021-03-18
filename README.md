@@ -1,12 +1,12 @@
 ## Hello Multiverse! </h2>
 <a href="https://www.linkedin.com/in/djtin/">
-  <img style="color:blue;" align="left" alt="David's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img style="background-color:white;" align="left" alt="David's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/davidjt7">
-  <img style="color:blue;" align="left" alt="David's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img style="background-color:white;" align="left" alt="David's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.hackerrank.com/djt_in7">
-  <img style="color:blue;" align="left" alt="David's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img style="background-color:white;" align="left" alt="David's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
 
