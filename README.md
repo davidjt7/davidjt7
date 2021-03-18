@@ -1,4 +1,5 @@
 ## Hello Multiverse! </h2>
+<div style="background-color: white;">
 <a href="https://www.linkedin.com/in/djtin/">
   <img style="background-color:white;" align="left" alt="David's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -8,6 +9,7 @@
 <a href="https://www.hackerrank.com/djt_in7">
   <img style="background-color:white;" align="left" alt="David's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+  </div>
 <br />
 
 ### I'm David Thomas
