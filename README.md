@@ -1,5 +1,5 @@
 ## Hello Multiverse! </h2>
-<div style="background-color: white;">
+<div style="background-color: white;width:100%">
 <a href="https://www.linkedin.com/in/djtin/">
   <img style="background-color:white;" align="left" alt="David's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
