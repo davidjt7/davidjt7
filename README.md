@@ -18,3 +18,6 @@
 
 ### Blog
 http://blog-davidjt7.vercel.app/
+
+### Resume
+https://resume-teal-three.vercel.app/
