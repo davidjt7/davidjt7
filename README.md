@@ -16,5 +16,5 @@
 - I build and deploy MERN stack web apps professionally.
 - I'm always looking for opportunities to learn and contribute.
 
-##### Check my <a href = "http://blog-davidjt7.vercel.app" target="_blank">Blog</a> and <a href = "https://resume-davidjt7.vercel.app/" target="_blank">Resume</a>
+##### Check my <a href = "http://blog-davidjt7.vercel.app" rel="noopener noreferrer" target="_blank">Blog</a> and <a rel="noopener noreferrer" href = "https://resume-davidjt7.vercel.app/" target="_blank">Resume</a>
 
