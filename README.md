@@ -16,8 +16,6 @@
 - I build and deploy MERN stack web apps professionally.
 - I'm always looking for opportunities to learn and contribute.
 
-### Blog
-http://blog-davidjt7.vercel.app/
+### <a href = "http://blog-davidjt7.vercel.app" target="_blank">Blog</a>
+### <a href = "https://resume-davidjt7.vercel.app/" target="_blank">Resume</a>
 
-### Resume
-https://resume-teal-three.vercel.app/
