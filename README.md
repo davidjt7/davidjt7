@@ -18,3 +18,4 @@
 
 ##### Check my <a href = "http://blog-davidjt7.vercel.app" rel="noopener noreferrer" target="_blank">Blog</a> and <a rel="noopener noreferrer" href = "https://resume-davidjt7.vercel.app/" target="_blank">Resume</a> (Machine friendly <a rel="noopener noreferrer" href = "https://resume-for-machines.vercel.app/" target="_blank">variant</a>)
 
+##### Code editor style resume -> <a href = "https://ide-resume.herokuapp.com/" rel="noopener noreferrer" target="_blank">Here</a>
