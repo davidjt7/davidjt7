@@ -12,7 +12,7 @@
   </div>
 <br />
 
-### Wuld Nah Kest
+
 - I build and deploy apps professionally.
 - I'm always looking for opportunities to learn and contribute.
 
