@@ -12,11 +12,6 @@
   </div>
 <br />
 
-####
-- I build and deploy apps professionally.
-- I'm always looking for opportunities to learn and contribute.
-
-
 
 ##### Code editor style resume -> <a href = "https://ide-resume.herokuapp.com/" rel="noopener noreferrer" target="_blank">Here</a>
 
