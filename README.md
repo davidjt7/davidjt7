@@ -1,4 +1,4 @@
-## Hello Multiverse! </h2>
+## Sup </h2>
 <div style="background-color: white;width:100%;height:100%">
 <a href="https://www.linkedin.com/in/djtin/">
   <img style="background-color:white;" align="left" alt="David's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/17983341/120071705-55d17980-c045-11eb-8d2d-33d6e3431e39.png" />
@@ -11,8 +11,3 @@
 </a>
   </div>
 <br />
-
-
-##### Code editor style resume -> <a href = "https://ide-resume.herokuapp.com/" rel="noopener noreferrer" target="_blank">Here</a>
-
-##### Check my <a href = "http://blog-davidjt7.vercel.app" rel="noopener noreferrer" target="_blank">Blog</a> and <a rel="noopener noreferrer" href = "https://resume-davidjt7.vercel.app/" target="_blank">Resume</a> (Machine friendly <a rel="noopener noreferrer" href = "https://resume-for-machines.vercel.app/" target="_blank">variant</a>)
