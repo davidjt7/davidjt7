@@ -1,4 +1,12 @@
-## Sup </h2>
+## Sup
+### Strengths
+- Learning and applying
+- Finding a way
+
+### Allergies
+- Pollen
+- Micromanagement
+
 <div style="background-color: white;width:100%;height:100%">
 <a href="https://www.linkedin.com/in/djtin/">
   <img style="background-color:white;" align="left" alt="David's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/17983341/120071705-55d17980-c045-11eb-8d2d-33d6e3431e39.png" />
