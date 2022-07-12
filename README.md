@@ -1,9 +1,9 @@
 ## Sup
-### Strengths
+#### Strengths
 - Learning and applying
 - Finding a way
 
-### Allergies
+#### Allergies
 - Pollen
 - Micromanagement
 
