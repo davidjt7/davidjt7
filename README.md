@@ -1,4 +1,5 @@
 ## Sup
+Who writes 'Hello World' tho fr?
 #### Strengths
 - Learning and applying
 - Finding a way
