@@ -21,3 +21,7 @@ Who writes 'Hello World' tho fr?
 </a>
   </div>
 <br />
+
+#### P.S. Bugs Found = Meme Material 
+
+![image](https://user-images.githubusercontent.com/17983341/228983910-7a3e362e-f425-477d-adf5-29245744e39a.png)
