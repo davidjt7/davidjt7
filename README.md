@@ -1,12 +1,13 @@
-## Sup
-Who writes 'Hello World' tho fr?
-#### Strengths
-- Learning and applying
-- Finding a way
+## Salutations!
+Hail and well met, esteemed acquaintance! May the radiance of this day find you in exalted spirits and in the most felicitous of circumstances. It is with great pleasure and boundless enthusiasm that I extend to you the sincerest of greetings - hello!
 
-#### Allergies
-- Pollen
-- Micromanagement
+Greetings and salutations! Might I inquire as to the originator of the ubiquitous phrase "Hello World"?
+
+Allow me to expound upon my strengths, as they pertain to the matter at hand. I possess a keen ability to learn and adeptly apply newfound knowledge, as well as an innate capacity for creative problem-solving.
+
+Furthermore, I am not one to shy away from a challenge; rather, I relish the opportunity to find a way forward in even the most complex and convoluted of situations.
+
+Regarding my allergies, I must confess a susceptibility to the irritants carried on the breeze by blooming flora. Additionally, I must express my distaste for the imposition of micromanagement in any form, as it stifles my natural proclivity for self-directed and autonomous work.
 
 <hr/>
 <div style="background-color: white;width:100%;height:100%">
@@ -21,8 +22,3 @@ Who writes 'Hello World' tho fr?
 </a>
   </div>
 <br />
-
-#### P.S.
-#### Bugs Found == Meme Material 
-
-![image](https://user-images.githubusercontent.com/17983341/228983910-7a3e362e-f425-477d-adf5-29245744e39a.png)
