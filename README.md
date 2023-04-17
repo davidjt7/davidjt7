@@ -24,6 +24,7 @@ Regarding my allergies, I must confess a susceptibility to the irritants carried
   display: inline-block; /* Display the poem text as an inline-block element */
   text-align: left; /* Align the poem text to the left */
               ">
+              
 David Joseph Thomas, a natural genius,
 A senior backend developer, with skills so ingenious.
 He's a man of many talents, both body and mind,
