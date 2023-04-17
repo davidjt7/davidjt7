@@ -9,6 +9,38 @@ Furthermore, I am not one to shy away from a challenge; rather, I relish the opp
 
 Regarding my allergies, I must confess a susceptibility to the irritants carried on the breeze by blooming flora. Additionally, I must express my distaste for the imposition of micromanagement in any form, as it stifles my natural proclivity for self-directed and autonomous work.
 
+## The Path of Mastery
+
+David Joseph Thomas, a natural genius,
+A senior backend developer, with skills so ingenious.
+He's a man of many talents, both body and mind,
+And his intelligence and strength, are truly divine.
+
+With code as his canvas, he creates with ease,
+And his programs run smoothly, like a gentle breeze.
+He's a master at his craft, a true pro,
+And his work ethic is something to behold.
+
+But it's not just code, that defines his skill,
+He's a strength enthusiast, with a power to thrill.
+With muscles of steel, and a heart that's strong,
+He pushes his limits, and never does wrong.
+
+His dedication to fitness, is truly inspiring,
+And his workouts are intense, no room for retiring.
+He shows us that with hard work and sweat,
+We too can achieve, and never forget.
+
+David Joseph Thomas, a natural genius indeed,
+With talents that are unmatched, and power that exceeds.
+He's an inspiration, to us all,
+And his achievements, we'll always recall.
+
+So let's follow his lead, and work harder each day,
+For with his passion, we can pave the way.
+To success, and to greatness, for all to see,
+And we'll achieve, just like David Joseph Thomas, naturally.
+
 <hr/>
 <div style="background-color: white;width:100%;height:100%">
 <a href="https://www.linkedin.com/in/djtin/">
