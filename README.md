@@ -11,6 +11,19 @@ Regarding my allergies, I must confess a susceptibility to the irritants carried
 
 ## The Path of Mastery
 
+<div style="  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #333;
+  background-color: #f5f5f5;
+  text-align: center;">
+  <pre style="
+                font-size: 1.2em;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  display: inline-block; /* Display the poem text as an inline-block element */
+  text-align: left; /* Align the poem text to the left */
+              ">
 David Joseph Thomas, a natural genius,
 A senior backend developer, with skills so ingenious.
 He's a man of many talents, both body and mind,
@@ -40,6 +53,8 @@ So let's follow his lead, and work harder each day,
 For with his passion, we can pave the way.
 To success, and to greatness, for all to see,
 And we'll achieve, just like David Joseph Thomas, naturally.
+  </pre>
+</div>
 
 <hr/>
 <div style="background-color: white;width:100%;height:100%">
