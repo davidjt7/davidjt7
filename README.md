@@ -26,7 +26,7 @@ Regarding my allergies, I must confess a susceptibility to the irritants carried
               ">
               
 David Joseph Thomas, a natural genius,
-A senior backend developer, with skills so ingenious.
+A software engineer, with skills so ingenious.
 He's a man of many talents, both body and mind,
 And his intelligence and strength, are truly divine.
 
