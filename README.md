@@ -54,6 +54,8 @@ So let's follow his lead, and work harder each day,
 For with his passion, we can pave the way.
 To success, and to greatness, for all to see,
 And we'll achieve, just like David Joseph Thomas, naturally.
+
+- ChatGPT
   </pre>
 </div>
 
