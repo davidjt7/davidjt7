@@ -1,2 +1,4 @@
 The pursuit of knowledge is a journey, not a destination. Every question we answer leads to new questions, and every discovery opens up new avenues of exploration. It's a humbling, lifelong quest that continually enriches our view of the universe and our place within it.
 > gpt4
+---
+<a href="https://www.buymeacoffee.com/djt7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
