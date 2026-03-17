@@ -1,4 +1,10 @@
-The pursuit of knowledge is a journey, not a destination. Every question we answer leads to new questions, and every discovery opens up new avenues of exploration. It's a humbling, lifelong quest that continually enriches our view of the universe and our place within it.
-> gpt4
+```bash
+$ whoami
+David Thomas
+Indie dev interested in building random passion projects.
+```
 ---
-<a href="https://www.buymeacoffee.com/djt7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+#### Currently working on building the world of <br>
+<img width="400" height="300" alt="fa164593-4a48-46b3-ab79-9e6c104f44c2" src="https://github.com/user-attachments/assets/56f41057-880a-4912-b168-e6b78ed9abf8" />
+
+---
