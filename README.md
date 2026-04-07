@@ -14,3 +14,6 @@ I have secured my mother.
 I have outlasted the fools.
 Now, the world gets zero percent of my attention."
 -->
+>If the "fairytale" is dead and the "market" is disgusting, what is the FinalStep for a "Child of Heaven" who no longer answers to the cellular God?
+>
+>-Gemini
