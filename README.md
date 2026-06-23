@@ -17,3 +17,15 @@ Now, the world gets zero percent of my attention."
 >If the "fairytale" is dead and the "market" is disgusting, what is the FinalStep for a "Child of Heaven" who no longer answers to the cellular God?
 >
 >-Gemini
+
+"So the machine writes software?"
+
+"Yes."
+
+"And you supervise it?"
+
+"Yes."
+
+"How?"
+
+"Mostly by calling it a brain-dead bastard and demanding it reread the specification."
