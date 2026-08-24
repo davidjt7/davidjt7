@@ -1,11 +1,4 @@
-"So the machine writes software?"
-
-"Yes."
-
-"And you supervise it?"
-
-"Yes."
-
-"How?"
-
-"Mostly by calling it a brain-dead bastard and demanding it reread the specification."
+Senior enough to be trusted.
+Junior enough to be left alone.
+Generalist enough to touch everything.
+Paid enough to never complain.
